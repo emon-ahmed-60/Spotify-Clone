@@ -1,4 +1,3 @@
-
 # Spotify-Clone
 
 A fully responsive music player clone inspired by Spotify's popular look and feel, with a user-friendly interface. 
